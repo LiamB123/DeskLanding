@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Grayscale - Start Bootstrap Theme</title>
+        <title>Desk Deluxe</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
@@ -27,7 +27,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects"> </a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects"> Desks </a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Contact Us</a></li>
                     </ul>
                 </div>
@@ -37,9 +37,9 @@
         <header class="masthead">
             <div class="container d-flex h-100 align-items-center">
                 <div class="mx-auto text-center">
-                    <h1 class="mx-auto my-0 text-uppercase">Grayscale</h1>
-                    <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2>
-                    <a class="btn btn-primary js-scroll-trigger" href="#about">Get Started</a>
+                    <h1 class="mx-auto my-0 text-uppercase">High Quality Desk</h1>
+                    <h2 class="text-white-50 mx-auto mt-2 mb-5">Improve your teams performance with our bespoke options</h2>
+                    <a class="btn btn-primary js-scroll-trigger" href="#about">Show me More</a>
                 </div>
             </div>
         </header>
